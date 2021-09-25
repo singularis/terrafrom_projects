@@ -1,0 +1,16 @@
+#IP`s should be changed
+Host node1
+    HostName 10.0.0.20
+    User ubuntu
+    IdentityFIle ~/.ssh/id_rsa_remotesystem
+
+
+Host node2
+    HostName 10.0.0.21
+    User ubuntu
+    IdentityFIle ~/.ssh/id_rsa_remotesystem
+
+Host node3
+    HostName 10.0.0.22
+    User ubuntu
+    IdentityFIle ~/.ssh/id_rsa_remotesystem                                                                                                                                                                    
